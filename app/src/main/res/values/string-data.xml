@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
-    \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin</string>
+    <string name="lorem_ipsum">Chat applications are topping the iOS and Android most downloaded applications lists. More and more people are upgrading from feature phones to smartphones
+    \n\naccelerating the move from traditional calling and SMS (which are paid services) to social messaging (which are generally freemium or subscription-based), to become the dominant way of staying in touch on the phone</string>
 
-    <string name="short_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="short_lorem_ipsum">Chat applications are topping the iOS and Android most downloaded applications lists.</string>
 
-    <string name="middle_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin</string>
+    <string name="middle_lorem_ipsum">Chat applications are topping the iOS and Android most downloaded applications lists. More and more people are upgrading from feature phones</string>
 
     <string name="long_lorem_ipsum">
         Duis tellus metus, elementum a lectus id, aliquet interdum mauris. Nam bibendum efficitur sollicitudin. Proin eleifend libero velit, nec fringilla dolor finibus quis. nMorbi eu libero pellentesque, rutrum metus quis, blandit est. Fusce bibendum accumsan nisi vulputate feugiat. In fermentum laoreet euismod. Praesent sem nisl, facilisis eget odio at, rhoncus scelerisque ipsum. Nulla orci dui, dignissim a risus ut, lobortis porttitor velit.
