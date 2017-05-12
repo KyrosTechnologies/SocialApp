@@ -112,11 +112,13 @@ public class ActivityMain extends AppCompatActivity {
         int id = item.getItemId();
         switch (id) {
             case R.id.action_about: {
-                AlertDialog.Builder builder = new AlertDialog.Builder(this);
-                builder.setTitle("About");
-                builder.setMessage(getString(R.string.about_text));
-                builder.setNeutralButton("OK", null);
-                builder.show();
+                Intent intent=new Intent(ActivityMain.this,AboutUs.class);
+                startActivity(intent);
+//                AlertDialog.Builder builder = new AlertDialog.Builder(this);
+//                builder.setTitle("About");
+//                builder.setMessage(getString(R.string.about_text));
+//                builder.setNeutralButton("OK", null);
+//                builder.show();
                 return true;
             }
             case R.id.action_login: {
