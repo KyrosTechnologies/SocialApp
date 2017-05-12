@@ -34,7 +34,8 @@
         <activity
             android:name=".ActivityRegistration"
             android:windowSoftInputMode="stateHidden" />
-        <activity android:name=".AboutUs"></activity>
+        <activity android:name=".AboutUs"
+           ></activity>
     </application>
 
 </manifest>

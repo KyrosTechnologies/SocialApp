@@ -1,6 +1,12 @@
 <resources>
 
     <style name="AppTheme" parent="BaseTheme"/>
+    <style name="AppTheme.news" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item> 
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item> 
+        <item name="colorControlHighlight">@color/colorAccentLight</item> 
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
 
     <style name="BaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/colorPrimary</item> 

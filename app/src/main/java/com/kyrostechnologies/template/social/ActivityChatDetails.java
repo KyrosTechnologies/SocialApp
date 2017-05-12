@@ -31,8 +31,8 @@ import java.util.List;
 
 public class ActivityChatDetails extends AppCompatActivity {
 
-    public static String KEY_FRIEND     = "com.app.sample.social.FRIEND";
-    public static String KEY_SNIPPET   = "com.app.sample.social.SNIPPET";
+    public static String KEY_FRIEND     = "com.app.sample.ic_launcher.FRIEND";
+    public static String KEY_SNIPPET   = "com.app.sample.ic_launcher.SNIPPET";
 
     // give preparation animation activity transition
     public static void navigate(AppCompatActivity activity, View transitionImage, Friend obj, String snippet) {

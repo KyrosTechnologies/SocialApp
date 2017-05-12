@@ -28,7 +28,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ActivityFriendDetails extends AppCompatActivity {
-    public static final String EXTRA_OBJCT = "com.app.sample.social.FRIEND";
+    public static final String EXTRA_OBJCT = "com.app.sample.ic_launcher.FRIEND";
 
     // give preparation animation activity transition
     public static void navigate(AppCompatActivity activity, View transitionImage, Friend obj) {
